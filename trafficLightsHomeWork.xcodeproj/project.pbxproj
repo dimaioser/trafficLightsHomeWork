@@ -11,6 +11,7 @@
 		2C80EDDE27BBECA700BA2E44 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C80EDDD27BBECA700BA2E44 /* ContentView.swift */; };
 		2C80EDE027BBECA900BA2E44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C80EDDF27BBECA900BA2E44 /* Assets.xcassets */; };
 		2C80EDE327BBECA900BA2E44 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C80EDE227BBECA900BA2E44 /* Preview Assets.xcassets */; };
+		2C80EDEC27BCEF1200BA2E44 /* ColorCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C80EDEB27BCEF1200BA2E44 /* ColorCircle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2C80EDDD27BBECA700BA2E44 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2C80EDDF27BBECA900BA2E44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C80EDE227BBECA900BA2E44 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2C80EDEB27BCEF1200BA2E44 /* ColorCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2C80EDDB27BBECA700BA2E44 /* trafficLightsHomeWorkApp.swift */,
 				2C80EDDD27BBECA700BA2E44 /* ContentView.swift */,
+				2C80EDEB27BCEF1200BA2E44 /* ColorCircle.swift */,
 				2C80EDDF27BBECA900BA2E44 /* Assets.xcassets */,
 				2C80EDE127BBECA900BA2E44 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C80EDDE27BBECA700BA2E44 /* ContentView.swift in Sources */,
+				2C80EDEC27BCEF1200BA2E44 /* ColorCircle.swift in Sources */,
 				2C80EDDC27BBECA700BA2E44 /* trafficLightsHomeWorkApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -269,6 +273,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"trafficLightsHomeWork/Preview Content\"";
+				DEVELOPMENT_TEAM = 6ARLQLZSV2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -297,6 +302,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"trafficLightsHomeWork/Preview Content\"";
+				DEVELOPMENT_TEAM = 6ARLQLZSV2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
